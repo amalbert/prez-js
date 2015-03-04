@@ -1,0 +1,12 @@
+{
+  "name": "my-application",
+  "version": "0.0.1",
+  "engines": {
+    "node": ">= 0.10"
+  },
+  "dependencies": {
+    "body-parser": "^1.4.3",
+    "express": "^4.4.5",
+    "mongodb": "^1.4.7"
+  }
+}
